@@ -1,0 +1,20 @@
+//overwrite theme colors
+$primary: #4287B7;
+$secondary: #EDC24A;
+$dark: #4B4B5C;
+$light: #F9F7F9;
+$success: #49a36f;
+$info: 	#343048;
+$warning: #c69337;
+$danger: #f44336;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@300;400;500&display=swap");
+//@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+$navbar-padding-y: 15px;
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+  }
+
+
+//import bootstrap styles
+@import "~bootstrap/scss/bootstrap";

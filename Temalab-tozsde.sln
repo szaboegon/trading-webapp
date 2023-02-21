@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temalab-tozsde", "Temalab-tozsde\Temalab-tozsde.csproj", "{E055E9FA-255C-4F84-A9A0-A5E8F8BA1238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E055E9FA-255C-4F84-A9A0-A5E8F8BA1238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E055E9FA-255C-4F84-A9A0-A5E8F8BA1238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E055E9FA-255C-4F84-A9A0-A5E8F8BA1238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E055E9FA-255C-4F84-A9A0-A5E8F8BA1238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A7C011-9204-4BDD-A7C0-E8060B502EAD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,182 @@
+/*home page*/
+.home-header{
+    height: 510px;
+    background-color: #EDC24A;
+    text-align: center;
+}
+
+.home-img{
+    flex-shrink: 0;
+    height: 500px;    
+}
+
+.about-text{
+    text-align: justify;
+    text-justify: inter-word;
+    color: #949494;
+}
+
+.horizontal-line{
+    border-top: 4px solid #4287B7;
+    width: 80px;
+}
+
+.sub-header{
+    color: #949494;
+}
+
+/*stocks page*/
+.page-header{
+    height: 200px;
+    background-color: #EDC24A;
+}
+
+.table-horizontal-line{
+    border-top: 4px solid #4287B7;
+    width: 200px;
+}
+
+.show-favourites{
+    color: #4B4B5C;
+    font-size: 16px;
+    font-weight: 450;
+}
+
+.table-header-row{
+    color: white;
+    background-color:  #4287B7;
+}
+
+
+/*buy stock modal & buy crypto modal*/
+
+.stock-modal-header{
+    background-color: #4287B7;
+    color: white;
+}
+
+.stock-modal-name{
+    font-size: 20px !important;
+    font-weight: 500;
+}
+
+.stock-modal-body{
+    color: #4B4B5C;
+    font-size: 17px;
+    font-weight: 450;
+}
+
+.stock-modal-total{
+  color: #4B4B5C;
+  font-size: 20px;
+  font-weight: 450;
+}
+
+.stock-modal-profit{
+  color: #4B4B5C;
+  font-size: 18px;
+  font-weight: 450;
+}
+
+/* login page */
+.Login-container {
+    background-image:url(".././images/home2.png");
+    background-size:contain;
+    background-position: center;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:auto;
+    height:90vh;
+  }
+  
+  .Login-form {
+    width: 400px;
+    box-shadow: 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .Login-form-content {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  .Login-title {
+    text-align: left;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .login-labels{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+/* Registration page */
+.Registration-container {
+  background-image:url("../images/home2.png");
+  background-size:contain;
+  background-position: center;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 100vh;
+}
+
+.Registration-form {
+  width: 400px;
+  box-shadow: 1px 1px 10px;
+  padding-top:30px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 255);
+}
+
+.Registration-form-content {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.Registration-title {
+  text-align: left;
+  font-size: 40px;
+  color:black;
+  font-weight: bold;
+}
+
+.Registration-labels{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*help page */
+.help-horizontal-line{
+    border-top: 4px solid #4287B7;
+    width: 140px;
+}
+
+/* portfolio page */
+.portfolio-header{
+    height: 230px;
+    background-color: #EDC24A;
+    color:#949494;
+    font-weight: 450;
+    font-size: 18px;
+}
+
+.portfolio-modal-header{
+  background-color: #4287B7;
+  color: white;
+}
+
+.portfolio-modal-body{
+  color: #4B4B5C;
+  font-size: 17px;
+  font-weight: 450;
+}
+
