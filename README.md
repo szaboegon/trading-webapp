@@ -1,7 +1,9 @@
 # trading_web_app
 
 Made for Training Project Laboratory (2022)
+
 Collaborators:
+
 [@SzaboViktor99](https://github.com/SzaboViktor99)
 [@Varesz](https://github.com/Varesz)
 
